@@ -1,6 +1,8 @@
 # dbapioneer¥ $O₽Ti©° 円 ДЗЭ
 ДჼA₽ioneer¥ 円 $O₽Ti©°
 
+![image](https://github.com/barionleg/dbapioneerY/assets/102619282/c6688998-9ad8-4bd8-8c0d-a9ca31cc6455)
+
 МирАнДА 
 
 Я иногда создаю альтернативные модели миров. В одном из них защитный облачный слой защищает солнцесторонную
